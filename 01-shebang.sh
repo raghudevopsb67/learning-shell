@@ -4,3 +4,4 @@
 # Completely optional
 # adding that will have an understanding of what script it is
 
+ls
