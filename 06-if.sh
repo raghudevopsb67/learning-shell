@@ -15,4 +15,6 @@ fi
 file=/tmp/new
 if [ -f $file ]; then
   echo File Exists
+else
+  echo File does not exist
 fi
