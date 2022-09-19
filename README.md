@@ -13,3 +13,29 @@
 10. SED Editor            (Command)
 
 ## 
+
+SHE-BANG & Comments - DONE 
+PRINT 
+ echo 
+    - colored printing 
+    - multiline printing 
+
+```bash
+echo -e "Hello\nWorld"
+```
+
+Redirectors 
+
+```bash
+If output use >
+if error user 2> 
+if both use &> 
+If append rather than over write &>> 
+If output is not needed then &>/dev/null 
+```
+
+Quotes 
+
+```bash
+
+```
