@@ -15,9 +15,13 @@
 ## 
 
 SHE-BANG & Comments - DONE 
+
 PRINT 
+
  echo 
+
     - colored printing 
+
     - multiline printing 
 
 ```bash
