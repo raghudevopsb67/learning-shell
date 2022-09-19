@@ -8,6 +8,7 @@ a=10
 while [ $a -gt 0 ]; do
   echo Hello - $a
   a=$(($a-1))
+  sleep 1
 done
 
 # Loop continously executes until the expression is failed
@@ -15,4 +16,5 @@ done
 # For Loop
 for fruit in apple banana orange ; do
   echo Fruit Name = $fruit
+  sleep 1
 done
