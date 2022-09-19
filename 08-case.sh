@@ -5,8 +5,10 @@ case $system in
     echo Linux System
     ;;
   Unix)
-    echi Unix System
+    echo Unix System
     ;;
+  *)
+    echo Input Missing / Unknown System
 esac
 
 # Syntax
