@@ -135,3 +135,14 @@ file checks (-f , -e)
 Case command 
 ```
 
+Loops 
+
+```bash 
+
+# for and while loop 
+if inputs are quite fixed then for loop 
+if loop based on a expression and number of iterations based on expression the we choose while loop. 
+
+# break command is there to break a loop, meaning come out of loop 
+
+```
