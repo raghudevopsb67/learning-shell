@@ -7,3 +7,5 @@
 ls
 
 # shell script is nothing but adding all your manual commands in a order
+
+
